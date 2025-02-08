@@ -74,9 +74,6 @@ analyzer.run_analysis(showGraph=True)
 - **Scikit-learn**
 - **Fairlearn**
 
-## 📝 License
-This project is licensed under the **MIT License**.
-
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit issues or pull requests on [GitHub](https://github.com/BlazheManev/bm-influential-instance-analyzer).
 
